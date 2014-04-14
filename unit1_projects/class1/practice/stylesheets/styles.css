@@ -1,12 +1,11 @@
 /* General Styles */
-
-body {
+body{
   background-color: rgb(241, 241, 241);  
   font-size: 16px; 
   font-weight: 300;
   line-height: 1.2em;
   margin: 0px auto;
-  min-width: 960px;
+  min-width: 320px;
   width: 100%;
 }
 
@@ -128,7 +127,7 @@ section section:after {
 #famous div.woman {
   background-color: white;
   float: left;
-  min-height: 250px;
+  min-height: 80px;
   margin: 1%;
   padding: 2%;
   width: 27.33%;

@@ -1,0 +1,107 @@
+body{
+	background-color: #18C5F5;
+	min-width: 801px;
+}
+#container1 {
+	float:left;
+    width: 400px;
+    height: 160px;
+    background-color: #D12A4E;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+            
+}
+#container2 {
+	float:right;
+    width: 400px;
+    height: 160px;
+    background-color: #D12A4E;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+            
+}
+#container3 {
+	float:left;
+    width: 400px;
+    height: 160px;
+    background-color: #D12A4E;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+            
+}
+#container4 {
+	float:right;
+    width: 400px;
+    height: 160px;
+    background-color: #D12A4E;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;            
+}
+#oneA {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 0px 0px 16px;
+    border: 1px solid black;            
+    float:left;
+}
+#oneB {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 16px 0px 0px;
+    border: 1px solid black;
+    float:right;
+}
+#oneC {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 0px 0px 16px;
+    border: 1px solid black;
+    float:left;
+}
+#oneD {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 16px 0px 0px;
+    border: 1px solid black;
+    float:right;
+}
+#twoA {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 0px 0px 16px;
+    border: 1px solid black;
+    float:left;
+}
+#twoB {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 16px 0px 0px;
+    border: 1px solid black;
+    float:right;
+}
+#twoC {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 0px 0px 16px;
+    border: 1px solid black;
+    float:left;
+}
+#twoD {
+    width: 160px;
+    height: 140px;
+    background-color: #F59518;
+    margin: 10px 16px 0px 0px;
+    border: 1px solid black;
+    float:right;
+}
