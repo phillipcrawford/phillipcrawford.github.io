@@ -1,10 +1,14 @@
 body{
 	background-color: #18C5F5;
-	min-width: 801px;
+	min-width: 100%;
+}
+img {
+    width:100%;
+    height:100%;
 }
 #container1 {
 	float:left;
-    width: 400px;
+    width: 49%;
     height: 160px;
     background-color: #D12A4E;
     margin-left: auto;
@@ -14,7 +18,7 @@ body{
 }
 #container2 {
 	float:right;
-    width: 400px;
+    width: 49%;
     height: 160px;
     background-color: #D12A4E;
     margin-left: auto;
@@ -24,7 +28,7 @@ body{
 }
 #container3 {
 	float:left;
-    width: 400px;
+    width: 49%;
     height: 160px;
     background-color: #D12A4E;
     margin-left: auto;
@@ -34,7 +38,7 @@ body{
 }
 #container4 {
 	float:right;
-    width: 400px;
+    width: 49%;
     height: 160px;
     background-color: #D12A4E;
     margin-left: auto;
@@ -42,7 +46,7 @@ body{
     margin-bottom: 0px;            
 }
 #oneA {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 0px 0px 16px;
@@ -50,7 +54,7 @@ body{
     float:left;
 }
 #oneB {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 16px 0px 0px;
@@ -58,7 +62,7 @@ body{
     float:right;
 }
 #oneC {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 0px 0px 16px;
@@ -66,7 +70,7 @@ body{
     float:left;
 }
 #oneD {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 16px 0px 0px;
@@ -74,7 +78,7 @@ body{
     float:right;
 }
 #twoA {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 0px 0px 16px;
@@ -82,7 +86,7 @@ body{
     float:left;
 }
 #twoB {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 16px 0px 0px;
@@ -90,7 +94,7 @@ body{
     float:right;
 }
 #twoC {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 0px 0px 16px;
@@ -98,7 +102,7 @@ body{
     float:left;
 }
 #twoD {
-    width: 160px;
+    width: 40%;
     height: 140px;
     background-color: #F59518;
     margin: 10px 16px 0px 0px;
