@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<link rel="stylesheet" href="blog_template.css">
+  	<title></title>
+  </head>
+<body>
+<p>Local variables are local to a method or class. Referencing them outside of where they were created will not work.  A program can pass information stored in local variables between methods by calling those methods and passing the local variables s parameters to the methods.</p>
+
+<p>Class Variables, Instance Variables, and Global variables can be referenced outside of where they were created. Then can be referenced throughout the class they are in, without needing to be passed around in methods.</p>
+
+<p>Class Variables are variables that are shared by all objects of that class. Imagine code for a two player game. It has two player objects with a boolean 'gameover' which is a class variable. If either player object has 'gameover' changed from false to true, the 'gameover' boolean of the other player object will also be set from false to true. What happens to a class variable for one instance of an object effects the class variable in all instances of the object. </p>
+
+<p>Instance variables are specific to instances of objects. They can be referenced throughout a class, but what happens to one instance of a class does not effect another instance of the class. </p>
+
+<p>Global variables can be accessed anywhere in ruby. There are many preset global variables. An example is $_, which returns the strings last read by 'gets'.</p>
+</body>
+</html>
